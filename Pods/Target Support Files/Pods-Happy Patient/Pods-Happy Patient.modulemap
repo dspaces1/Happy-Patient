@@ -1,0 +1,6 @@
+framework module Pods_Happy_Patient {
+  umbrella header "Pods-Happy Patient-umbrella.h"
+
+  export *
+  module * { export * }
+}
